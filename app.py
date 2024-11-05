@@ -77,7 +77,7 @@ def app():
             with open(pdf_file, "rb") as pdf:
                 st.download_button("Download PDF", pdf, file_name=pdf_file, mime="application/pdf")
               import os
-os.environ["saudia"] = "2oKBKvHw7X4lVjdS4KodB9Wc16Q_8A7GQmLSJwUhqwzR8HVP"
+os.environ["saudia"] = "xxxxxxxxxxxxxxxxxxxxxxx"
 from pyngrok import ngrok
 
 # Start ngrok tunnel on port 8501 using HTTP protocol
